@@ -1,1 +1,1 @@
-# Gambfit-Fitness-Calculator
+# Gambfit
